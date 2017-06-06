@@ -18,7 +18,7 @@ $(document).ready(function () {
         {url: 'images/game/c3_60x60.png'},
         {url: 'images/game/c4_60x60.png'},
         {url: 'images/game/c8_60x60.png'},
-        {url: 'image/game/c6_60x60.png'},
+        {url: 'images/game/c6_60x60.png'},
         {url: 'images/game/c7_60x60.png'}
     ];
     var chickenPosY=randomArray(7,-180,210);       //小鸡随机Y坐标
